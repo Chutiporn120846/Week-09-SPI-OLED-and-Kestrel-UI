@@ -78,6 +78,8 @@ void app_main(void)
 }
 ```
 
+https://youtube.com/shorts/uN9rcwYxZ5E?si=3aDO3vTM722wXzH- ลิ้งวิดีโอ
+
 ---
 
 ### กิจกรรมที่ 3.2: ตารางการทดสอบและตรวจพิสูจน์ความสอดคล้อง (Co-Verification Checklist)
